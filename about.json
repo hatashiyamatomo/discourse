@@ -17,9 +17,9 @@
     },
     "color_schemes": {
       "Dracula": {
-        "primary": "ffffff",
+        "primary": "000000",
         "secondary": "ffffff",
-        "tertiary": "ffffff",
+        "tertiary": "000000",
         "quaternary": "ffffff",
         "header_background": "000000",
         "header_primary": "000000",
